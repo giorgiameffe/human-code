@@ -93,3 +93,43 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
 - mi dirigo verso l'uscita del supermercato 
 - vado a casa 
   
+---
+
+# Scansionare un documento su più fogli fronte-retro
+
+Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi, possibile che nel 2025 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! Ora ci penso io: una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla! L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. Va beh, poco male, almeno sono pochi fogli!
+
+# Svolgimento 
+
+- prendo la pratica 
+- verifico se sono presenti tutti i fogli
+  - SE ci sono 
+    - procedo nel voler scannerizzare la pratica 
+  - ALTRIMENTI 
+    - continuo a cercare 
+- mi reco verso il pc  
+- accendo il pc
+- verifico se il programma per la scannerizzazione sia installato 
+  - SE è installato 
+    - vado verso lo scanner e lo accendo  
+  - ALTRIMENTI 
+    - installo il programma 
+- controllo le funzionalità dello scanner 
+  - SE ha la funzionalità fronte-retro 
+     - il lavoro sarà agevolato 
+  - ALTRIMENTI 
+    - il lavoro sarà rallentato 
+- lo scanner non ha la funzionalità fronte-retro 
+- procedo ad inserire i fogli e girarli manualmente FINCHè i fogli non saranno terminati 
+- verifico al pc se la scannerizzazione dei fogli sia avvenuta con successo
+  - SE è avvenuta con successo 
+    - salvo il file 
+    - spengo il pc 
+ - ALTRIMENTI 
+    - continuo l'operazione FINCHè il file sarà completo 
+- spengo lo scanner 
+
+
+
+
+

@@ -1,16 +1,7 @@
 # Fare la spesa seguendo una lista 
 
-Punti chiave: 
-
-- frigo vuoto
-- lista della spesa 
-- le crocchette di Ricky
-- coupon in scadenza a fine mese
-- portafoglio con contanti
-
-Imprevisto: 
-
-- snack extra (?)
+Nel frigo si inizia a sentire l'eco, perciò è ora di fare rifornimenti!
+Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca in una lista, così una volta al supermercato, girando tra gli scaffali, posso verificare di aver preso tutto e Ricky non rimane senza crocchette come l'ultima volta, povero! Devo ricordarmi di usare il coupon che scade a fine mese, per il resto dovrebbero bastarmi i contanti che ho in portafogli, sempre se non mi faccio prendere la mano con gli snack extra!
 
 # Svolgimento
 
@@ -53,7 +44,6 @@ Imprevisto:
 - prendo la lista 
   - la leggo
   - la tengo a portata di mano per ogni evenienza 
-  - mi prometto di non prendere dolci stavolta
 - vado al reparto gastronomia 
   - SE non c'è tanta fila 
     - aspetto il mio turno 
@@ -77,17 +67,11 @@ Imprevisto:
   - ALTRIMENTI 
     - cerco un'altra confezione 
 - vado al reparto del pesce 
-  - passo davanti alla corsia dei dolci 
-  - mi fermo 
-  - fortunatamente riesco a resistere all'istinto e vado 
-    avanti 
-  - arrivo al reparto del pesce 
-    - SE c'è l'orata 
+  - SE c'è l'orata 
       - la prendo 
-    - ALTRIMENTI 
+  - ALTRIMENTI 
       - prendo la spigola 
-- mi ricordo delle crocchette per Ricky 
-  - vado verso la corsia per gli animali 
+- vado verso la corsia per gli animali   
   - cerco le sue crocchette preferite 
   - SE trovo le sue crocchette al pollo 
     - gliene prendo due pacchi visto che ne è ghiotto 
@@ -99,8 +83,13 @@ Imprevisto:
   - SE ho abbastanza soldi in contanti 
     - li prendo 
   - ALTRIMENTI 
-    - passo oltre 
+    - desisto
 - è il turno di pagare
   - do il coupon alla cassiera 
-  - mi comunica il totale
+  - SE il coupon non è abbastanza 
+    - aggiungo i contanti 
+  - effettuo il pagamento 
+- prendo tutti gli alimenti 
+- mi dirigo verso l'uscita del supermercato 
+- vado a casa 
   
